@@ -39,7 +39,6 @@ section {
   display: none;
 }
 
-
 @media only screen and (min-width: 25em) {
 
   .photo:nth-child(2) {
@@ -94,4 +93,5 @@ section {
     width: 33.3333%;
     display: block;
   }
+
 }
